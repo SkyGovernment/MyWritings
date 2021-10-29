@@ -13,9 +13,7 @@ Berdasarkan Kamus Oxford fungible bermaksud:
 >"(barang yang dikontrakkan tanpa spesifikasi individu) dapat diganti atau diganti dengan barang lain yang identik; dapat saling dipertukarkan."
 
 
-Satu pengamatan penting adalah bahwa sangat sedikit hal dalam hidup yang dapat dipertukarkan.
-
-Lihat di sekitar anda; meja anda, sandwich anda, suami atau isteri anda, anjing anda, ikan emas anda, anak anda, tetangga anda serta kenderaan anda.
+Jika diamati, adalah sangat sedikit hal dalam hidup yang dapat dipertukarkan. Lihat di sekitar anda; meja anda, sandwich anda, suami atau isteri anda, anjing anda, ikan emas anda, anak anda, tetangga anda serta kenderaan anda.
 
 Semuanya tidak dapat dipertukarkan. Oleh itu NFT adalah token yang bukan berbentuk matawang yang boleh dipertukarkan.
 
